@@ -1,5 +1,5 @@
 .DS_Store
-/.sync-comfig.cson
+/.sync-config.cson
 /.idea
 /node_modules
 /vendor
